@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Master in Front-End Development conseguito in Start2Impact<br>👨🏽‍💻 In cerca della mia prima esperienza come programmatore Front-End Developer a Milano<br>🌿 Nella vita e nella programmazione cerco bellezza e semplicità (e efficienza)
+🎓 Master in Front-End Development conseguito in Start2Impact<br>👨🏽‍💻 In cerca della mia prima esperienza come Front-End Developer a Milano<br>🌿 Nella vita e nella programmazione cerco bellezza, semplicità e efficienza
 
 
 # 💻 Tech Stack:
